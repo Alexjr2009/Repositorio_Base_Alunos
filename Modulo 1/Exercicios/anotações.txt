@@ -1,0 +1,21 @@
+int - numeros inteiros - 1
+float - numeros quebrados - 2.5
+str - string - palavras - entre aspas ""
+bool - booleano - true or false - verdadeiro ou false
+
+variavel 
+- uma cixa que recebe um valor 
+ex - nome = "Alex"
+
+operadores aritiméticos
+adição +
+subtração -
+multiplicação * 
+divisão /
+
+porcentagem %
+
+maior >
+menor <
+maior igual >=
+menor igual <=
